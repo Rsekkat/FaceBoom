@@ -61,16 +61,6 @@
         android:textColor="#fff"
         android:textSize="30dp" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="112dp"
-        android:layout_height="109dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginStart="-16dp"
-        android:layout_marginTop="-11dp"
-        app:srcCompat="@drawable/fboom_logo" />
-
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
@@ -111,5 +101,15 @@
         android:layout_centerVertical="true"
         android:layout_marginEnd="57dp"
         android:text="qsduhfqsdfhiuqsdhfouqsdhfuiosdqfgqisdufgqisudfgiusqdgfisqdgiufgqsdfguiqsd" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="98dp"
+        android:layout_height="84dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="1dp"
+        app:srcCompat="@drawable/faceb" />
 
 </RelativeLayout>
