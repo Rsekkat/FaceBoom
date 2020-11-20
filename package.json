@@ -24,6 +24,8 @@
   "homepage": "https://github.com/MrMarrant/FaceBoom#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "exprss": "0.0.1-security"
+    "exprss": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "sequelize": "^3.30.4"
   }
 }
