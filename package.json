@@ -1,0 +1,31 @@
+{
+  "name": "faceboom",
+  "version": "1.0.0",
+  "description": "server api rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMarrant/FaceBoom.git"
+  },
+  "keywords": [
+    "api",
+    "http",
+    "rest",
+    "server"
+  ],
+  "author": "William PIERRE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMarrant/FaceBoom/issues"
+  },
+  "homepage": "https://github.com/MrMarrant/FaceBoom#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "exprss": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "sequelize": "^3.30.4"
+  }
+}
