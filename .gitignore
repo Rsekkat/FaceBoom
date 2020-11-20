@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 node_modules
+.idea/.idea/misc.xml
+.idea/.idea/modules.xml
+.idea/.idea/vcs.xml
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
