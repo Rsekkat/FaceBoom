@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">FaceBoom</string>
+    <string name="s_connexion_login">CONNEXION</string>
+    <string name="s_username">Utilisateur</string>
+    <string name="s_password">Mot de passe</string>
+    <string name="s_comfirm_password">Comfirmer le mot de passe</string>
+    <string name="s_create_account">Création du compte</string>
+    <string name="s_create_an_account">Création un compte</string>
+    <string name="s_email">Email</string>
+    <string name="s_submit">S\'inscrire</string>
+    <string name="s_add_post">Ajouter un post</string>
+    <string name="s_parcourir">Parcourir</string>
+    <string name="s_descrption">Description</string>
+    <string name="s_ajouter_photo">Ajouter une photo</string>
+    <string name="s_recherche">Chercher</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="btn_wight">400px</string>
 </resources>
