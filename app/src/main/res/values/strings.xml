@@ -8,6 +8,12 @@
     <string name="s_create_an_account">Création un compte</string>
     <string name="s_email">Email</string>
     <string name="s_submit">S\'inscrire</string>
+    <string name="s_add_post">Ajouter un post</string>
+    <string name="s_parcourir">Parcourir</string>
+    <string name="s_descrption">Description</string>
+    <string name="s_ajouter_photo">Ajouter une photo</string>
+    <string name="s_recherche">Chercher</string>
+
     <string name="title_home">Home</string>
     <string name="title_add">Add</string>
     <string name="btn_wight">400px</string>
