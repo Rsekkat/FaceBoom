@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">FaceBoom</string>
-    <string name="adresse_mail">Adresse mail</string>
-    <string name="mot_de_passe">Mot de passe</string>
-    <string name="confirmation_du_mot_de_passe">Confirmation du mot de passe</string>
-    <string name="com_auth0_client_id">6Osr5PUJpSqxl6TLlSOKTUliodqwbBiT</string>
-    <string name="com_auth0_domain">dev-9feberuj.eu.auth0.com</string>
+    <string name="s_connexion_login">Connexion</string>
+    <string name="s_username">Username</string>
+    <string name="s_createaccount">Création du compte</string>
+    <string name="s_email">Email</string>
+    <string name="s_submit">S\'inscrire</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_add">Ajouter post</string>
 </resources>
