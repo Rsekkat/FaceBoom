@@ -10,4 +10,5 @@
     <string name="s_submit">S\'inscrire</string>
     <string name="title_home">Home</string>
     <string name="title_add">Add</string>
+    <string name="btn_wight">400px</string>
 </resources>
